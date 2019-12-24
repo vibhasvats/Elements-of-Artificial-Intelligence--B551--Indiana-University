@@ -1,1 +1,1 @@
-# Elements-of-Artificial-Interllegence--B551--Indiana-University
+# Elements-of-Artificial-Intelligence--B551--Indiana-University
